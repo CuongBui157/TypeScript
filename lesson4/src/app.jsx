@@ -1,4 +1,5 @@
 import Board from "./components/board"
+import Square from "./components/square"
 // import Avatar from "./components/avatar"
 
 // Props: Là một đối tượng, để truyền dữ liệu từ cha xuống con, nhưng không có chiều ngược lại
